@@ -4,7 +4,7 @@ Utility script for interacting with Cloud Foundry providers.
 
 - [Cloud Foundry CLI][cli]
 - Cloud Foundry account with sufficient roles
-- [jq][https://stedolan.github.io/jq/]
+- [jq][jq]
 
 ## Running
 
